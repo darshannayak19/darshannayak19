@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshannayak19&label=Profile%20views&color=0e75b6&style=flat" alt="darshannayak19" /> </p>
 
-- 🔭 I’m currently working on [RoboCup Rescue Simulation](https://rescuesim.robocup.org/competitions/agent-simulation-competition/)
-
 - 🌱 I’m currently learning **Next.js, Typescript, Kubernetes, Docker**
 
 - 👯 I’m looking to collaborate on **ShoppyShop**
